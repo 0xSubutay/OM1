@@ -42,3 +42,5 @@ logs/
 
 # Mode system state files
 config/memory
+*.backup
+*.backup
